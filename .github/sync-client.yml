@@ -10,8 +10,6 @@ lumirlumir/lumirlumir-configs:
   # ./
   - source: ./.editorconfig
     dest: ./configs/.editorconfig
-  - source: ./.gitattributes
-    dest: ./configs/.gitattributes
   - source: ./.nvmrc
     dest: ./configs/.nvmrc
   - source: ./LICENSE.md
